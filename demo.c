@@ -4,5 +4,6 @@ int main(){
 	printf("zyb£¡£¡£¡");
 	printf("zyb£¡£¡£¡");
 	//aassdd
+	printf("£¡£¡£¡");
 	return 0;
 }
