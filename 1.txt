@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 djfslk;nhns,j.khvb
 lkjdfskljsdfkljf
+=======
+账账账
+>>>>>>> a0d5f772c91bbc60472a762fa5b783ad743699f9
